@@ -23,9 +23,9 @@ return [
     // 数据库名
     'database'    => 'admin_v5',
     // 用户名
-    'username'    => 'admin_v5',
+    'username'    => 'root',
     // 密码
-    'password'    => 'FbYBHcWKr2',
+    'password'    => 'root',
     // 编码
     'charset'     => 'utf8mb4',
     // 端口

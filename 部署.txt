@@ -1,0 +1,8 @@
+1、数据库新建  admin_v5.sql
+2、导入数据库文件
+3、修改database.php信息
+4、PHP开启PATH_INFO    
+	打开Apache2安装文件夹下的conf文件夹，找到httpd.conf文件
+	搜索</Directory>
+	前一行添加：AcceptPathInfo On
+5、配置虚拟域名，指向public
